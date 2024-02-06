@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-06T08:12:54.297Z</updated>
+  <updated>2024-02-05T09:29:48.085Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的高中回忆</title>
-    <link href="http://example.com/2024/02/06/%E6%88%91%E7%9A%84%E9%AB%98%E4%B8%AD%E5%9B%9E%E5%BF%86/"/>
-    <id>http://example.com/2024/02/06/%E6%88%91%E7%9A%84%E9%AB%98%E4%B8%AD%E5%9B%9E%E5%BF%86/</id>
-    <published>2024-02-06T08:04:33.000Z</published>
-    <updated>2024-02-06T08:12:54.297Z</updated>
-    
-    <content type="html"><![CDATA[<p>各位看官老爷们</p><p>大家好</p><p>前面我们聊过LSPosed的最新使用指南</p><p>LSPosed需要手机获取Root权限才能使用</p><p>而LSPosed的开发者还开发有一款不需要Root也能使用的模块框架</p><p>有不少小伙伴给我留言希望我能详细聊一聊LSPatch这款免Root框<br>LSPatch目前支持安卓9以上系统</p><p>对于不想或不能Root手机的用户可以说是福音了</p><p>我们先去下载安装并打开LSPatch</p><p>显示Shizuku服务未连接部分功能不可用<br>！<a href="/source/img/1.webp">img </a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;各位看官老爷们&lt;/p&gt;
-&lt;p&gt;大家好&lt;/p&gt;
-&lt;p&gt;前面我们聊过LSPosed的最新使用指南&lt;/p&gt;
-&lt;p&gt;LSPosed需要手机获取Root权限才能使用&lt;/p&gt;
-&lt;p&gt;而LSPosed的开发者还开发有一款不需要Root也能使用的模块框架&lt;/p&gt;
-&lt;p&gt;有不少小伙伴给我留言</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
